@@ -1,0 +1,48 @@
+[submodule "alarm"]
+	path = alarm
+	url = git@github.com:missuzhang/alarm.git
+[submodule "dashboard"]
+	path = dashboard
+	url = git@github.com:missuzhang/dashboard.git
+[submodule "query"]
+	path = query
+	url = git@github.com:missuzhang/query.git
+[submodule "transfer"]
+	path = transfer
+	url = git@github.com:missuzhang/transfer.git
+[submodule "portal"]
+	path = portal
+	url = git@github.com:missuzhang/portal.git
+[submodule "fe"]
+	path = fe
+	url = git@github.com:missuzhang/fe.git
+[submodule "agent"]
+	path = agent
+	url = git@github.com:missuzhang/agent.git
+[submodule "hbs"]
+	path = hbs
+	url = git@github.com:missuzhang/hbs.git
+[submodule "nodata"]
+	path = nodata
+	url = git@github.com:missuzhang/nodata.git
+[submodule "common"]
+	path = common
+	url = git@github.com:missuzhang/common.git
+[submodule "graph"]
+	path = graph
+	url = git@github.com:missuzhang/graph.git
+[submodule "task"]
+	path = task
+	url = git@github.com:missuzhang/task.git
+[submodule "plugin"]
+	path = plugin
+	url = git@github.com:missuzhang/plugin.git
+[submodule "judge"]
+	path = judge
+	url = git@github.com:missuzhang/judge.git
+[submodule "sender"]
+	path = sender
+	url = git@github.com:missuzhang/sender.git
+[submodule "links"]
+	path = links
+	url = git@github.com:missuzhang/links.git
