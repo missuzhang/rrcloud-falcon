@@ -47,5 +47,5 @@
 	path = links
 	url = git@github.com:missuzhang/links.git
 [submodule "scripts"]
-	path = links
+	path = scripts
 	url = git@github.com:missuzhang/scripts.git
